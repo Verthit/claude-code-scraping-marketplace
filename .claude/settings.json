@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "scraping-marketplace": {
+      "source": {
+        "source": "github",
+        "repo": "verthit/claude-code-scraping-marketplace"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "apify-plugin@scraping-marketplace": true
+  }
+}
